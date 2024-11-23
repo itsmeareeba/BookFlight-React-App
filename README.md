@@ -1,6 +1,6 @@
-# ✈️ JetFlight - React Native Airline App  
+# ✈️ BookFlight - React Native Airline App  
 
-JetFlight is a beautifully crafted React Native flight booking mobile app, designed with a modern and stylish look. Built with precision and attention to detail, it delivers a seamless and intuitive user experience for booking flights and managing travel details.  
+BookFlight is a beautifully crafted React Native flight booking mobile app, designed with a modern and stylish look. Built with precision and attention to detail, it delivers a seamless and intuitive user experience for booking flights and managing travel details.  
 
 ---
 
@@ -25,7 +25,7 @@ The app features over **33 expertly designed screens**, including:
 ---
 
 ## 🌟 Additional Features  
-JetFlight includes cutting-edge functionalities to enhance usability and interactivity:  
+BookFlight includes cutting-edge functionalities to enhance usability and interactivity:  
 - **Expo Router**: File-based navigation for streamlined routing and API routes.  
 - **Reanimated 3**: Smooth, visually appealing animations throughout the app.  
 - **Gorhom Bottom Sheet**: Interactive modals and bottom sheets for better user interaction.  
@@ -45,8 +45,8 @@ Follow these steps to set up and run the project locally:
 
 1. **Clone the Repository**:  
    ```bash
-   git clone https://github.com/your-username/jetflight-app.git
-   cd jetflight-app
+   git clone https://github.com/your-username/Bookflight-app.git
+   cd bookflight-app
    ```  
 
 2. **Install Dependencies**:  
@@ -66,7 +66,7 @@ Follow these steps to set up and run the project locally:
 ---
 
 ## 📦 Deployment  
-JetFlight is built using **Expo**, making it easy to deploy across platforms. To deploy:  
+Bookflight is built using **Expo**, making it easy to deploy across platforms. To deploy:  
 1. Install Expo CLI globally:  
    ```bash
    npm install -g expo-cli  
@@ -80,12 +80,12 @@ JetFlight is built using **Expo**, making it easy to deploy across platforms. To
 ---
 
 ## 🤝 Contributing  
-We welcome contributions to make JetFlight even better! Fork the repository, create a feature branch, and submit a pull request.  
+We welcome contributions to make Bookflight even better! Fork the repository, create a feature branch, and submit a pull request.  
 
 ---
 
 ## 📄 License  
-JetFlight is licensed under the [MIT License](LICENSE).  
+Bookflight is licensed under the [MIT License](LICENSE).  
 
 ---
 
